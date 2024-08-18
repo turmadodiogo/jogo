@@ -1,1 +1,1 @@
-olá mundo. isso é um teste 
+olá mundo | Hello world
